@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-scikit-learn
-# Lightweight TensorFlow replacement for prediction:
-tensorflow-cpu
-# Necessary Keras/H5 components:
-keras
-h5py
