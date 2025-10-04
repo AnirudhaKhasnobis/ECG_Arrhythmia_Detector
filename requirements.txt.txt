@@ -1,0 +1,10 @@
+# In your terminal, run this command to generate most of the file:
+pip freeze > requirements.txt
+
+# Then, open the file and ensure these critical libraries are listed:
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+# nolds (Even if you switched to simple features, keep it if the code imports it)
